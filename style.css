@@ -77,3 +77,11 @@ a:hover {
     border-radius: 4px;
 }
 
+#footer{
+  list-style: none;
+}
+
+#footer li {
+  display: inline;
+  padding: 10px;
+}
